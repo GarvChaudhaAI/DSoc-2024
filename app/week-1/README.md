@@ -1,5 +1,8 @@
 # DevClub Summer of Code 2024
 
+## Overview
+This repository contains the only the essential files for DSoc week 1 task. The complete project could not be uploaded because it was too large in size.
+
 ## App Development: Week 1
 
 # Comprehensive PoS Interface - Week 1: Flutter Setup and Basics
